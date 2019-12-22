@@ -1,4 +1,5 @@
 # tugas-MinimaFinder
+Dalam Program.cs
 Pada watershed2, telah dibuat algoritma untuk menemukan titik minimal lokal (lokal minima) bernama markLocalMinima. Algoritma tersebut terpasang pada sebuah objek kelas bernama Matrix, sehingga perlu membuat sebuah objek Matrix sebelum dapat dijalankan.
 Untuk membuat sebuah objek Matrix, dapat dilakukan secara acak atau manual.
 
